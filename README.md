@@ -1,44 +1,39 @@
-**College Bus Tracker**
+**Project Title:** College Bus Tracker
 
-**Project Description**
+**Project Description:**
 
-College Bus Tracker is a web application that helps students track the location of college buses in real-time. The application uses GPS data to track the buses' locations and display them on a map. Students can use the app to see when the next bus is due to arrive at their stop and plan their journey accordingly.
+College Bus Tracker is an Android application that allows users to track the real-time location of buses on their campus. This application provides students with a convenient and efficient way to plan their commute, ensuring they never miss a bus again.
 
-**Built With**
+**Built With:**
 
-* ReactJS
-* Node.js
-* Express.js
-* MongoDB
+* Java
+* Google Maps API
+* Android Studio
 
-**Installation Instructions**
+**Installation Instructions:**
 
-To install the College Bus Tracker application, follow these steps:
+1. Clone the repository: `git clone https://github.com/shax752003/College-Bus-Tracker`
+2. Import the project into Android Studio
+3. Build and run the application
 
-1. Clone the repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Run `npm start` to start the application.
+**Usage Examples:**
 
-**Usage Examples**
+* Open the application and select your campus from the list.
+* The map will display the real-time location of all buses.
+* Click on a bus to see its route and estimated arrival time.
+* Set up push notifications to receive alerts when a bus is approaching your stop.
 
-To use the College Bus Tracker application, follow these steps:
+**Contributing Guidelines:**
 
-1. Open the application in a web browser.
-2. Enter your college or university name.
-3. Select your bus stop from the list.
-4. The application will display a map showing the location of the bus in real-time.
+* Fork the repository
+* Create a new branch for your contribution
+* Make your changes and commit them to your branch
+* Create a pull request to merge your changes back into the main branch
 
-**Contributing Guidelines**
+**Authors:**
 
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to the project.
+* shax752003
 
-**Authors**
+**Acknowledgements:**
 
-* @shax752003
-
-**Acknowledgements**
-
-This project was inspired by the work of the following people:
-
-* [GPS Tracking for School Buses](https://www.gpsinsight.com/gps-tracking-for-school-buses/)
-* [Real-Time Bus Tracking](https://www.verizonconnect.com/solutions/real-time-bus-tracking/)
+Special thanks to Google for providing the Google Maps API, which made this application possible.
